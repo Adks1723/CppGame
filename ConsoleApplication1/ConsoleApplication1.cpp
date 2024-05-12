@@ -12,7 +12,7 @@ string getChoice(string prompt) {
 int main()
 {
     setlocale(LC_ALL, "");
-    cout << "Kladoiskatel";
+    cout << "Kladoiskatel!";
 
     cout << "Вы обнаружили бутылку с запиской, которая приплыла не берег";
     cout << "В записке говорится, что рядом с вами находится клад закопанный в лесу";
